@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Dashbord_img.png"alt="Demo of AI Travel Planner" width="1000px" />
+</p>
+
 ## Data Analysis with Excel
 
 ### About
